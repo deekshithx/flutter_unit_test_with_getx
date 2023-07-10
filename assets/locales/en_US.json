@@ -1,0 +1,16 @@
+{
+  "home": {
+    "enter_currency": "Enter currency pair",
+    "enter_currency_to_load": "Enter a currency pair to load data"
+  },
+  "result": {
+    "open": "OPEN",
+    "high": "HIGH",
+    "low": "LOW",
+    "volume": "VOLUME",
+    "last": "LAST",
+    "view_order_book": "VIEW ORDER BOOK",
+    "hide_order_book": "HIDE ORDER BOOK",
+    "refresh": "REFRESH"
+  }
+}

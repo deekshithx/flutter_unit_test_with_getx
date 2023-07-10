@@ -1,0 +1,16 @@
+{
+  "home": {
+    "enter_currency": "करेंसी पेयर दर्ज करें",
+    "enter_currency_to_load": "डेटा लोड करने के लिए करेंसी पेयर दर्ज करें"
+  },
+  "result": {
+    "open": "खुला",
+    "high": "उच्च",
+    "low": "निम्न",
+    "volume": "वॉल्यूम",
+    "last": "अंतिम",
+    "view_order_book": "आर्डर बुक देखें",
+    "hide_order_book": "आर्डर बुक छिपाएँ",
+    "refresh": "ताजगी करें"
+  }
+}
